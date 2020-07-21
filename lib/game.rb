@@ -25,7 +25,7 @@ class Game
 
   def show_players
     human_player.show_state
-    puts "Il reste #{enemies.size} joueurs à détruire"
+    puts "Il reste #{enemies.size} maître jedi à détruire"
   end
 
   def menu
